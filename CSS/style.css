@@ -1,0 +1,31 @@
+body{
+    background-color: #D5D8B5;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #809A6F;
+    border-width: 5px;
+    width: 5%;
+}
+
+img{
+    height: 150px;
+}
+
+h3{
+    color: #A25B5B;
+}
+
+h1{
+    color: #A25B5B;
+}
+
+.Skills{
+    background-color: #CC9C75;
+}
+
+.circular{
+    background-color: #809A6F;
+    border-radius: 30%;
+}
